@@ -1,6 +1,6 @@
 # Implementação de técnicas de transformada de Laplace inversa em relaxometria por Ressonância Magnética Nuclear (RMN) no domínio do tempo
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![Python 2.7](https://img.shields.io/badge/python-2.7-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/status-completo-green)
 
@@ -9,11 +9,20 @@ Este projeto foi desenvolvido como parte de uma iniciação científica durante 
 
 ## Objetivos
 
+Estudar, implementar e validar métodos computacionais de Transformada de Laplace Inversa (TLI) para a obtenção de distribuições de tempos de relaxação em Ressonância Magnética Nuclear no Domínio do Tempo (RMN-DT).
+
+Como objetivos específicos, destacamos:
+
+- Aprendizagem dos conceitos básicos de RMN e, principalmente, de RMN-DT.
+- Domínio básico do uso de um espectrômetro de RMN-DT de baixo campo, além da capacidade de ajustar parâmetros relevantes para as sequências de pulso mais importantes para os estudos de relaxação como, por exemplo, CPMG.
+- Estudo das propriedades básicas da Transformada de Laplace Inversa e estudo dos principais métodos computacionais para a implementação da TLI.
+- Implementação experimental de um ou mais métodos de TLI objetivando a obtenção das curas de distribuição dos tempos de relaxação para amostras modelo.
+
 ## Fundamentos teóricos
 
 ## Tecnologias e bibliotecas utilizadas
 
-- Python 2.x
+- Python 2.7
 - Jupyter Notebook
 - Numpy
 - Matplotlib
@@ -48,7 +57,11 @@ Este projeto foi desenvolvido como parte de uma iniciação científica durante 
 
 Este projeto está licenciado sob a licença ...
 
-## Autor
+## Autores
 
 João J Ambrozetto
 Projeto realizado como parte do programa de iniciação Científica .... UFSCar 2018-2019
+
+João Teles de Carvalho Neto
+Professor do Departamento de Ciências da Natureza e Matemática DCNME
+Ufscar Araras
