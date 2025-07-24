@@ -240,7 +240,7 @@ Opt4 = [0.016199174274152295, 0.03621083296484821, 0.5655536626848444, 8.1291885
 # Opt4[3] -> penalização da curvatura (c)
 ```
 
-4. Por fim, aplica-se os parâmetros encontrados para recuperarmos a currva inicialmente simulada:
+4. Por fim, aplica-se os parâmetros encontrados para recuperarmos a curva inicialmente simulada:
 
 ```python
 reg4 = lp.InvLaplace(sig4, 0) #0=cpmg/1=invrec
