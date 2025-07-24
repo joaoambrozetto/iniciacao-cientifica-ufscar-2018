@@ -1,4 +1,4 @@
-# Implementação de técnicas de transformada de Laplace inversa em relaxometria por Ressonância Magnética Nuclear (RMN) no domínio do tempo
+# Implementação de técnicas de Transformada de Laplace Inversa em relaxometria por Ressonância Magnética Nuclear (RMN) no Domínio do Tempo
 
 ![Python 2.7](https://img.shields.io/badge/python-2.7-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
@@ -307,4 +307,4 @@ Universidade Federal de São Carlos (UFSCar) - *campus* Araras
 
 ## Nota Final
 
-Este projeto representa um ponto de partida importante da minha trajetória como programador. Ele está sendo mantido como parte do meu portifólio por seu valor formativo e histórico, mesmo não sendo compatível com os ambientes modernos.
+Este projeto representa um ponto de partida importante da minha trajetória como programador. Ele está sendo mantido como parte do meu portfólio por seu valor formativo e histórico, mesmo não sendo compatível com os ambientes modernos.
